@@ -6,10 +6,4 @@ how to use
 cwj-serve
 
 Open the browser and enter the address
-=======
-# cwj-serve
-npm install cwj-serve -g
-cwj-serve 
-
-Open the browser and enter the address
 >>>>>>> f3e44072c5eb86ce14a312d0b8ef8fe9cbd931b9
