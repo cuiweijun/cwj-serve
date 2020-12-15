@@ -1,13 +1,12 @@
 {
   "name": "cwj-serve",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "main": "index.js",
   "bin": {
     "cwj-serve": "./bin/serve.js"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
